@@ -1,0 +1,8 @@
+.idea/
+.DS_Store/
+provisioning/.DS_Store
+*.log
+.vagrant/
+projects/
+provision/ssh_config/*
+config/local/*

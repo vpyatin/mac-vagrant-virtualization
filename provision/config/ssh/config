@@ -1,0 +1,7 @@
+Host *
+    IdentitiesOnly=yes
+    AddKeysToAgent yes
+    IgnoreUnknown UseKeyChain
+    UserKnownHostsFile=/dev/null
+    StrictHostKeyChecking no
+    ForwardAgent yes
